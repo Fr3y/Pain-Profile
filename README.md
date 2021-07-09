@@ -257,6 +257,6 @@ search me on web   <input id="mysearch" name="searchitem" type="search" />
 
    
 
-   <footer><h6> Site is still in Developing by:- Nishant Singh Tomar</h6></footer>
+   <footer><h6> Site is still in Developing by:- frey</h6></footer>
 
 </html>
